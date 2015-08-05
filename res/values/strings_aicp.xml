@@ -16,9 +16,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen, AICP version name-->
-    <string name="mod_version">AICP version</string>
+    <string name="mod_version">AICP versiyonu</string>
     <!-- About phone screen, AICP unknown name-->
-    <string name="mod_version_default">Unknown</string>
+    <string name="mod_version_default">Bilinmiyor</string>
     <!-- About phone screen, build date of ROM -->
     <string name="build_date">Build date</string>
     <string name="build_date_default">2012-01-01-0000</string>
